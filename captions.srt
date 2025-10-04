@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:08,000
+ Hi everyone, my name is Harita. This is the sample test case, a voice recording for to check auto caption generator.
+
+2
+00:00:08,000 --> 00:00:13,000
+ And I just want to write some, sorry, say some information.
+
+3
+00:00:13,000 --> 00:00:23,000
+ I was doing this auto caption generator by using the python and by using some libraries called different libraries.
+
+4
+00:00:23,000 --> 00:00:33,000
+ We are having just need to import that file. Let me explain that what are those files.
+
+5
+00:00:33,000 --> 00:00:41,000
+ In this we just need to import first one, import viscure and srt and date and time and oes and systems.
+
+6
+00:00:41,000 --> 00:00:47,000
+ We just need to import these things and next we need to go for the further method or functions.
+
+7
+00:00:47,000 --> 00:00:52,000
+ Writing that, matching the path name, file name is it okay or not.
+
+8
+00:00:52,000 --> 00:01:02,000
+ Which will generate a file not for error or error loading viscure model or as file not for error during transcription.
+
+9
+00:01:02,000 --> 00:01:12,000
+ Any other things, but if it successfully completed means it will generate the text as subtitled saved as output with the information captions.satty.
+
+10
+00:01:12,000 --> 00:01:19,000
+ It is saved in the format of asatty file. So let me check that it will generate the text or not.
+
