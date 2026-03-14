@@ -93,8 +93,3 @@ Video file input support
 Graphical user interface (GUI)
 
 Improved accuracy using advanced speech models
-
-📜 License
---
-
-This project is intended for educational and learning purposes.
